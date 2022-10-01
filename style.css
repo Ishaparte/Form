@@ -1,0 +1,27 @@
+h3{
+    color:red;
+    background-color: black;
+}
+body{
+    padding: 20px;
+    border: 10px solid black ;
+    margin: 20px;
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdiHsDnfZL420ZmGJ2Xsk6ZmDQih_vme9tAA&usqp=CAU") ;
+    font-size: 400%;   
+    color: aliceblue; 
+}
+input[type="submit"]{
+    background-color: rgba(74, 155, 42, 0.911);
+    border-radius: 20px;
+    width: 100%;
+    height: 50%;
+    border: none;
+}
+input[type="submit"]:hover{
+    background-color: greenyellow
+
+}
